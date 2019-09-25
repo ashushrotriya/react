@@ -1,0 +1,7 @@
+.app {
+    display: grid;
+    grid-template:
+            "header" 140px
+            "content"
+            "footer" 50px;
+}
