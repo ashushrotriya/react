@@ -6,7 +6,7 @@ import MainMenu from "./menu";
 class Header extends React.Component {
     render() {
         return (
-            <div>
+            <div className='header'>
                 <SiteName/>
                 <MainMenu/>
                 <div className='app'>this is header</div>
